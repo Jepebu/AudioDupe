@@ -2,9 +2,9 @@
 Lightweight audio duplicator for Windows 10+  
 
 ## Installers
-- (x64 Architecture)[https://jepebu.com/downloads/AudioDupe_Setup_x64.exe]  
-- (x86 Architecture)[https://jepebu.com/downloads/AudioDupe_Setup_x86.exe]  
-- (ARM64 Architecture)[https://jepebu.com/downloads/AudioDupe_Setup_ARM64.exe]  
+- [x64 Architecture](https://jepebu.com/downloads/AudioDupe_Setup_x64.exe)  
+- [x86 Architecture](https://jepebu.com/downloads/AudioDupe_Setup_x86.exe)  
+- [ARM64 Architecture](https://jepebu.com/downloads/AudioDupe_Setup_ARM64.exe)  
 
 
 ## Purpose
