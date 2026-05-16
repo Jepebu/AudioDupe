@@ -3,8 +3,10 @@ Lightweight audio duplicator for Windows 10+
 
 ## Purpose
 I made AudioDupe as a simple way to send audio output to one additional output device.  
+
 The original use case was playing audio through a pair of speakers and a headset so that you can share your Discord and/or game audio with friends in the same room.  
-It is worth noting that this will only duplicate audio from your Windows default output. If you have an app that is playing to another output device, it won't be duplicated.
+
+It is worth noting that this will only duplicate audio from your Windows default output. If you have an app that is playing to another output device, it won't be duplicated.  
 
 ## How It Works
 
