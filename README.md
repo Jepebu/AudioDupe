@@ -1,5 +1,11 @@
 # AudioDupe
-Lightweight audio duplicator for Windows 10+
+Lightweight audio duplicator for Windows 10+  
+
+## Installers
+- (x64 Architecture)[https://jepebu.com/downloads/AudioDupe_Setup_x64.exe]  
+- (x86 Architecture)[https://jepebu.com/downloads/AudioDupe_Setup_x86.exe]  
+- (ARM64 Architecture)[https://jepebu.com/downloads/AudioDupe_Setup_ARM64.exe]  
+
 
 ## Purpose
 I made AudioDupe as a simple way to send audio output to one additional output device.  
